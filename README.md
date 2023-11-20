@@ -54,7 +54,7 @@ $ cd */shared && cp -f psiphon-pro-go.zip $HOME && exit
 
 __________________________________
 
-# 💜 Reopen Termux Terminal 💜
+💜 Reopen Termux Terminal 💜
 __________________________________
 
 $ mkdir bf 
