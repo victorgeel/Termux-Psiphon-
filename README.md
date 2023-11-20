@@ -24,7 +24,7 @@ https://t.me/fastssh_myanmar/1063811
 
 သို့မဟုတ်
 
-https://github.com/victorgeel/Termux-Psiphon-/archive/refs/heads/main.zip
+https://github.com/victorgeel/Termux-Psiphon-/raw/main/psiphon-pro-go.zip
 
 __________________
 # Tutorial Video 
