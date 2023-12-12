@@ -1,0 +1,3 @@
+#!bin/bash
+su -c am force-stop com.psiphon3.subscription && exit
+exec bash
